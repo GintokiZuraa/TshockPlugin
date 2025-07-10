@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\respawn\bin\Debug\net6.0\Respawn.deps.json
+C:\Users\ASUS\Desktop\respawn\bin\Debug\net6.0\Respawn.dll
+C:\Users\ASUS\Desktop\respawn\bin\Debug\net6.0\Respawn.pdb
+C:\Users\ASUS\Desktop\respawn\bin\Debug\net6.0\OTAPI.dll
+C:\Users\ASUS\Desktop\respawn\bin\Debug\net6.0\TerrariaServer.dll
+C:\Users\ASUS\Desktop\respawn\bin\Debug\net6.0\TShockAPI.dll
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.csproj.Up2Date
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.dll
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\refint\Respawn.dll
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\Respawn.pdb
+C:\Users\ASUS\Desktop\respawn\obj\Debug\net6.0\ref\Respawn.dll

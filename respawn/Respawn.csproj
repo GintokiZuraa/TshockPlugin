@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Respawn</RootNamespace>
+    <AssemblyName>Respawn</AssemblyName>
+  </PropertyGroup>
+
+<ItemGroup>
+  <Reference Include="TShockAPI">
+    <HintPath>lib\TShockAPI.dll</HintPath>
+  </Reference>
+  <Reference Include="OTAPI">
+    <HintPath>lib\OTAPI.dll</HintPath>
+  </Reference>
+  <Reference Include="TerrariaServer">
+    <HintPath>lib\TerrariaServer.dll</HintPath>
+  </Reference>
+  <Reference Include="Microsoft.Xna.Framework">
+    <HintPath>lib\Microsoft.Xna.Framework.dll</HintPath>
+  </Reference>
+  <Reference Include="Terraria">
+    <HintPath>lib\Terraria.dll</HintPath>
+  </Reference>
+</ItemGroup>
+
+
+
+  <!-- Optional: import shared template.targets if your project depends on it -->
+  <Import Project="..\..\template.targets" Condition="Exists('..\..\template.targets')" />
+
+</Project>

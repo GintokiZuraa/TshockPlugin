@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Respawn/1.0.0": {
+        "dependencies": {
+          "OTAPI": "1.4.4.9",
+          "TerrariaServer": "5.2.1.0",
+          "TShockAPI": "5.2.4.0"
+        },
+        "runtime": {
+          "Respawn.dll": {}
+        }
+      },
+      "OTAPI/1.4.4.9": {
+        "runtime": {
+          "OTAPI.dll": {
+            "assemblyVersion": "1.4.4.9",
+            "fileVersion": "1.4.4.9"
+          }
+        }
+      },
+      "TerrariaServer/5.2.1.0": {
+        "runtime": {
+          "TerrariaServer.dll": {
+            "assemblyVersion": "5.2.1.0",
+            "fileVersion": "5.2.1.0"
+          }
+        }
+      },
+      "TShockAPI/5.2.4.0": {
+        "runtime": {
+          "TShockAPI.dll": {
+            "assemblyVersion": "5.2.4.0",
+            "fileVersion": "5.2.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Respawn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OTAPI/1.4.4.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TerrariaServer/5.2.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TShockAPI/5.2.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
